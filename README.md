@@ -116,6 +116,18 @@ python -m venv venv
 * Windows: venv\Scripts\activate
 * Linux / macOS: source venv/bin/activate
 
+### Установка FFmpeg
+
+FFmpeg — это системная утилита для работы с видео (нарезка, фильтры, рендер). Она устанавливается отдельно от Python.
+
+**Windows (PowerShell от имени администратора):**
+```powershell
+winget install Gyan.FFmpeg
+```
+(Если winget недоступен, скачайте архив с gyan.dev, распакуйте и добавьте путь к папке bin в переменную среды PATH).
+
+
+
 
 
 
