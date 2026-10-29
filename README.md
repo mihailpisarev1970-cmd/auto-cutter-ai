@@ -75,3 +75,6 @@ flowchart TD
 
     SUB --> ASS[ASS-субтитры]
     ASS --> FF
+
+<a id="installation"></a>
+## Установка
