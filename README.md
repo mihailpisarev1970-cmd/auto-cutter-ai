@@ -97,3 +97,13 @@ flowchart TD
 * FFmpeg, добавленный в переменную окружения PATH.
 * Tkinter — для диалога выбора папки (на Linux: sudo apt install python3-tk).
 * API-ключ Polza AI (для работы AI-нарезки).
+
+### Клонирование репозитория
+
+```
+git clone https://github.com/your_username/auto-cutter-ai.git
+cd auto-cutter-ai
+
+```
+
+
