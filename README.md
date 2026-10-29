@@ -90,7 +90,3 @@ flowchart TD
 
     SUB --> ASS[ASS-субтитры]
     ASS --> FF
----
-
-
-## Возможности
