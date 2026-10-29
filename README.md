@@ -111,6 +111,10 @@ cd auto-cutter-ai
 python -m venv venv
 
 ```
+#### Активация окружения
+
+* Windows: venv\Scripts\activate
+* Linux / macOS: source venv/bin/activate
 
 
 
