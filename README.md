@@ -124,7 +124,7 @@ FFmpeg — это системная утилита для работы с ви�
 ```powershell
 winget install Gyan.FFmpeg
 ```
-(Если winget недоступен, скачайте архив с gyan.dev, распакуйте и добавьте путь к папке bin в переменную среды PATH).
+(Если winget недоступен, скачайте архив с [gyan.dev](https://www.gyan.dev/ffmpeg/builds/), распакуйте и добавьте путь к папке bin в переменную среды PATH).
 
 
 
