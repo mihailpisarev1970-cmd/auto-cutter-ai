@@ -27,6 +27,25 @@
 Приложение рассчитано на локальный запуск на Windows/Linux/macOS. Для работы нужны **Python**, **FFmpeg** и API-ключ **Polza AI** (для вкладки с искусственным интеллектом).
 
 ---
+## Структура проекта
+```
+auto-cutter-ai/
+│
+├── app.py                  # Gradio-интерфейс и точка входа
+├── ai_pipeline.py          # Whisper, чанки, Polza AI, AI-нарезка
+├── config.py               # Настройки из .env и константы
+├── downloader.py           # yt-dlp и быстрая нарезка
+├── video_processor.py      # Кадрирование 9:16, MediaPipe, FFmpeg
+├── subtitles.py            # Генерация караоке-субтитров ASS
+├── uniqualizer.py          # CLI-уникализатор для пакетной обработки
+├── utils.py                # Таймкоды, диалог выбора папки
+│
+├── .env.example            # Пример переменных окружения
+├── .gitignore              # Исключения Git
+├── LICENSE                 # Лицензия MIT
+├── README.md               # Документация
+└── requirements.txt        # Python-зависимости
+```
 
 ## Возможности
 
