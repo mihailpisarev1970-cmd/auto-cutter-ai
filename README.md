@@ -92,3 +92,11 @@ flowchart TD
     ASS --> FF
 ```
 ## Установка
+# Предварительные требования
+Python 3.10+
+
+FFmpeg, добавленный в переменную окружения PATH.
+
+Tkinter — для диалога выбора папки (на Linux: sudo apt install python3-tk).
+
+API-ключ Polza AI (для работы AI-нарезки).
