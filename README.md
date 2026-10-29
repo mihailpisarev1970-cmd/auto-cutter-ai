@@ -126,6 +126,30 @@ winget install Gyan.FFmpeg
 ```
 (Если winget недоступен, скачайте архив с [gyan.dev](https://www.gyan.dev/ffmpeg/builds/), распакуйте и добавьте путь к папке bin в переменную среды PATH).
 
+### macOS (через Homebrew):
+
+```
+brew install ffmpeg
+
+```
+
+### Linux (Ubuntu / Debian):
+
+```
+sudo apt update && sudo apt install ffmpeg
+
+```
+
+### Проверка установки:
+Перезапустите терминал и выполните ffmpeg -version. Если выводится версия — утилита готова к работе.
+
+
+
+
+
+
+
+
 
 
 
