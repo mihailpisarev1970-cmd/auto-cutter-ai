@@ -10,16 +10,17 @@
 [![Whisper](https://img.shields.io/badge/OpenAI-Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/openai/whisper)
 [![yt-dlp](https://img.shields.io/badge/yt--dlp-downloader-red?style=for-the-badge)](https://github.com/yt-dlp/yt-dlp)
 [![MediaPipe](https://img.shields.io/badge/MediaPipe-Face%20Detection-0097A7?style=for-the-badge)](https://mediapipe.dev/)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](#лицензия)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](#license)
 
 **Загрузите ссылку или файл — получите готовый вертикальный ролик с субтитрами, автокропом и уникализацией.**
 
-[Возможности](#возможности) • [Архитектура](#архитектура) • [Установка](#установка) • [Использование](#использование) • [Стек](#стек-технологий)
+[Возможности](#features) • [Архитектура](#architecture) • [Установка](#installation) • [Использование](#usage) • [Стек](#tech-stack)
 
 </div>
 
 ---
 
+<a id="features"></a>
 ## 📖 О проекте
 
 **Auto Cutter AI** — это локальное Gradio-приложение для автоматизации производства коротких видео.
@@ -38,7 +39,7 @@
 
 ---
 
-## Возможности
+## ✨ Возможности
 
 | Возможность | Описание |
 |---|---|
@@ -80,7 +81,8 @@
 
 ---
 
-## Архитектура
+<a id="architecture"></a>
+## 🏗 Архитектура
 
 ```mermaid
 flowchart TD
