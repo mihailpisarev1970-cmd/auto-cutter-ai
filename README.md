@@ -105,5 +105,13 @@ git clone https://github.com/your_username/auto-cutter-ai.git
 cd auto-cutter-ai
 
 ```
+### Создание виртуального окружения
+
+```
+python -m venv venv
+
+```
+
+
 
 
